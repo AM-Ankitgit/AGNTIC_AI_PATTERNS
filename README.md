@@ -1,0 +1,1 @@
+"# AGNTIC_AI_PATTERNS" 
